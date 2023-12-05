@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivo Donev
+=================================================================================================================================
 
-<!--
-**Ivo-Donev/Ivo-Donev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Design Student | Proficient in Unity | Python Coding Enthusiast | Seeking Entry-Level Opportunities
+--------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+I am a Games Design student with a passion for programming. I am currently honing my Python skills at an intermediate level. Enthusiastic about the intersection of creativity and technology in the gaming realm. Aspiring computer scientist with a keen interest in furthering knowledge and pursuing a degree in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Breda, The Netherlands/Sofia, Bulgaria
+* ✉️  You can contact me at [ivodonev04@gmail.com](mailto:ivodonev04@gmail.com)
+* 🧠  I'm learning Python, Data Science, Machine Learning and AI
+* 🤝  I'm open to collaborating on All sorts of projects that involve team work and learning new skills!
+* ⚡  I have a dog named Sara
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/ivodonev04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ivo-Donev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ivo-donev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/23047695/ivaka-donev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/IvakaDonev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Ivo-Donev"><img src="https://github-readme-stats.vercel.app/api?username=Ivo-Donev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Ivo-Donev's GitHub stats" /></a>
+
+<a href="http://www.github.com/Ivo-Donev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivo-Donev&stroke=14b8a6&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=14b8a6&currStreakLabel=6366f1&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<a href="http://www.github.com/Ivo-Donev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ivo-Donev&bg_color=22272e&color=14b8a6&line=0891b2&point=14b8a6&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
