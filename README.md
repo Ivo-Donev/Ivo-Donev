@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Design Student | Proficient in Unity | Python Coding Enthusiast | Seeking Entry-Level Opportunities
 --------------------------------------------------------------------------------------------------------
 
-I am a Games Design student with a passion for programming. I am currently honing my Python skills at an intermediate level. Enthusiastic about the intersection of creativity and technology in the gaming realm. Aspiring computer scientist with a keen interest in furthering knowledge and pursuing a degree in the field.
+ I am currently honing my Python skills at an intermediate+ level. Enthusiastic about the intersection of creativity and technology in the gaming, bussiness and entrepreneurship realms. Aspiring computer scientist with a keen interest in furthering knowledge and pursuing a degree in the field.
 
-* 🌍  I'm based in Breda, The Netherlands/Sofia, Bulgaria
+* 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [ivodonev04@gmail.com](mailto:ivodonev04@gmail.com)
 * 🧠  I'm learning Python, Data Science, Machine Learning and AI
 * 🤝  I'm open to collaborating on All sorts of projects that involve team work and learning new skills!
