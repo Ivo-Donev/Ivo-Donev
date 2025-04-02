@@ -1,25 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivo Donev
-=================================================================================================================================
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="150" height="150" align="left" style="border-radius: 50%;"/>
 
-Python Coding Enthusiast | Proficient in Unity | Seeking Entry-Level Opportunities
-----------------------------------------------------------------------------------
+### Hi there! 👋 I'm Ivo Donev  
+==================================================================  
 
-I am currently honing my Python skills at an intermediate level. Enthusiastic about the intersection of creativity and technology in the gaming realm. Aspiring computer scientist with a keen interest in furthering knowledge and pursuing a degree in the field.
+🚀 Software Developer in the Making | Tech & Automation Enthusiast  
+--------------------------------------------------------------------------  
 
-* 🌍  I'm based in Sofia, Bulgaria
-* ✉️  You can contact me at [ivodonev04@gmail.com](mailto:ivodonev04@gmail.com)
-* 🧠  I'm learning Python, Data Science, Machine Learning and AI
-* 🤝  I'm open to collaborating on All sorts of projects that involve team work and learning new skills!
-* ⚡  I have a dog named Sara
+I'm a **Computer Science student** passionate about **software development, automation, and problem-solving**. My goal is to continuously expand my skills and build practical applications that make life easier.  
 
-### Skills
+💡 **What I'm working on:**  
+- Learning **Python & C++ for software development**  
+- Exploring **Arduino projects for smart home automation**  
+- Experimenting with **AI & automation tools**  
 
+📚 **Currently Learning:**  
+- **Advanced programming concepts & best practices**  
+- **Embedded systems & IoT applications**  
+- **Data structures & algorithms**  
+
+🌍 Based in **Sofia, Bulgaria**  
+📩 Reach me at **[ivodonev04@gmail.com](mailto:ivodonev04@gmail.com)**  
+🤝 Open to **collaborations** on interesting tech projects!  
+
+---
+
+### 🛠 Skills & Technologies  
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="36" height="36" alt="CMake" /></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="36" height="36" alt="Arduino" /></a>
+</p>  
+
+---
+
+### 🌐 Socials  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ivo-donev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://www.github.com/Ivo-Donev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+<a href="https://www.stackoverflow.com/users/23047695/ivaka-donev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a>
+<a href="https://www.x.com/IvakaDonev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X/Twitter" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/ivodonev04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ivo-Donev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ivo-donev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/23047695/ivaka-donev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/IvakaDonev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+---
