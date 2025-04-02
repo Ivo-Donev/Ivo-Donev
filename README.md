@@ -46,3 +46,19 @@ I'm a **Computer Science student** passionate about **software development, auto
 </p>
 
 ---
+
+### 🔥 GitHub Stats  
+
+> ⚡ **Commits from 2025 only:** To reset your commit history and start fresh, follow these steps:  
+
+1. **Backup** your current repository.  
+2. Run the following in your repo (⚠ This will erase commit history):  
+
+   ```sh
+   rm -rf .git
+   git init
+   git add .
+   git commit -m "Fresh start for 2025 🚀"
+   git branch -M main
+   git remote add origin https://github.com/Ivo-Donev/your-repo.git
+   git push -f origin main
