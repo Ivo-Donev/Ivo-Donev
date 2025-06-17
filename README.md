@@ -28,7 +28,12 @@ I'm a **Computer Science student** passionate about **software development, auto
 
 <p align="left">
 <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
+</a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="36" height="36" alt="CMake" /></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="36" height="36" alt="Arduino" /></a>
